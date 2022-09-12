@@ -93,7 +93,7 @@ font-size: 18px;
         text-decoration: none;
         display: inline-block;
         font-size: 16px;
-        float: center;
+        
         margin-left: 200px;
       }
       button:hover{background-color: #17ADDD;
@@ -154,8 +154,8 @@ font-size: 18px;
     padding-right: 5px;
     padding-left: .5cm;
    }
-    .hor{padding: 30px 20px
-    font-size: 16px;
+    .hor{padding: 30px 20px;
+    font-size:16px;
   }
     .vertical{
       padding-right: 5px;
