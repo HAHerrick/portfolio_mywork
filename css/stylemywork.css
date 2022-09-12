@@ -56,6 +56,18 @@ font-size: 18px;
     color:#0c4665;
     padding: 10px;
   }
+  a:link {
+    color:#0c4665;
+  }
+  a:visited {
+    color: #0c4665;
+  }
+  a:hover {
+    color: #17ADDD;
+  }
+  a:active {
+    color: #ffe5a2;
+  }
   h1{
     color: #0c4665;
     text-align: center;
